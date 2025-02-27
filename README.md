@@ -5,7 +5,7 @@ Line 21: Change caption from Lorem Ipsum to anything you want
 Line 99: add another language using paragraph element
 <p></p>
 
-Line 116: Make the Underwater kittens high school bold using <strong></strong>
+Line 116: Make the "Your School Here" text bold using <strong></strong>
 
 CSS
 
